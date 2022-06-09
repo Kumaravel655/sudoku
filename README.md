@@ -22,7 +22,7 @@ Calculate the time taken to solve the sudoku.
 
 ## <br><br><br>Program:
 
-```
+```python
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
