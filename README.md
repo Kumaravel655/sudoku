@@ -19,6 +19,9 @@ Eliminate possible values for a box by looking at its peers.
 Check whether any box which allows only a certain digit in the unit after elimination.
 ### Step 5:
 Repeat 3 and 4 until we get the solved puzzle.
+    
+<br><br><br>
+    
 ### Step 6:
 Calculate the time taken to solve the sudoku.
 
